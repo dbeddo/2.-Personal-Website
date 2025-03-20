@@ -11,7 +11,8 @@ with col1:
 with col2:
     st.title("Dylan Beddo")
     content = """
-    Hi! I am Dylan! I am a Data Analyst at Veterans United Home Loans.
+    Hi! I am Dylan! I graduated from the University of Central Missouri in 2013 with a degree in Computer Information Systems.
+    Currently I am a Data Analyst at Veterans United Home Loans on the Consumer Research & Development team.
     """
 
     st.info(content)
